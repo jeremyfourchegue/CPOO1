@@ -1,3 +1,4 @@
+package chessball.moteur;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -29,6 +30,4 @@ public final class Equipe {
            throw new IllegalStateException("Il y a déja le nb de joueur");
         }
     }
-    }
-
 }
